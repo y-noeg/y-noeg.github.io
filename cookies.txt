@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tome.app	TRUE	/	FALSE	1999999999	ajs_anonymous_id	8aab8f01-3323-406e-95fb-99e6e95a52ba
+tome.app	TRUE	/	FALSE	1999999999	SameSite	None
+
